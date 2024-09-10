@@ -1,0 +1,2 @@
+# machine-learning-project-2-on-diabetes-prediction-
+This project designed to predict the likelihood of diabetes based on patient data such as age, BMI, blood pressure and more. The project includes data exploration, preprocessing, feature engineering, model training, and evaluation. Various classification algorithms are employed for accurate predictions. implemented gradio for real time predictions.
